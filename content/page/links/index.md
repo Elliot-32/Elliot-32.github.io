@@ -16,7 +16,7 @@ links:
   - title: 內思高工資安社群
     description: savs_hacker
     website: https://www.instagram.com/savs_hacker/
-    image: https://elliot-32.github.io/img/savs_hacker_logo.jpg
+    image: https://elliot-32.github.io/savs_hacker_logo.png
 menu:
     main: 
         weight: 4
