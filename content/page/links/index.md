@@ -2,9 +2,21 @@
 title: Links
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: Elliot-32
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: Discord
+    description: Elliot_404
+    website: https://discord.com/users/628939416693506049
+    image: https://elliot-32.github.io/img/discord-icon-svgrepo-com.svg
+  - title: Instagram
+    description: elliot_404_tw
+    website: https://www.instagram.com/elliot_404_tw/
+    image: https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg
+  - title: 內思高工資安社群
+    description: savs_hacker
+    website: https://www.instagram.com/savs_hacker/
+    image: https://elliot-32.github.io/img/savs_hacker_logo.jpg
 menu:
     main: 
         weight: 4
@@ -13,21 +25,3 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
