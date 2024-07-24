@@ -8,7 +8,7 @@ links:
   - title: Discord
     description: Elliot_404
     website: https://discord.com/users/628939416693506049
-    image: https://elliot-32.github.io/img/discord-icon-svgrepo-com.svg
+    image: https://elliot-32.github.io/discord-icon-svgrepo-com.svg
   - title: Instagram
     description: elliot_404_tw
     website: https://www.instagram.com/elliot_404_tw/
