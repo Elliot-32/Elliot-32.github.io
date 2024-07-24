@@ -3,7 +3,7 @@ title: Links
 links:
   - title: GitHub
     description: Elliot-32
-    website: https://github.com
+    website: https://github.com/Elliot-32
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: Discord
     description: Elliot_404
