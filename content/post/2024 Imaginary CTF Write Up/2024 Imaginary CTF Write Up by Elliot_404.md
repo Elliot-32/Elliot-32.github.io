@@ -4,7 +4,7 @@ description: 🚩ICEDTEA
 tags: [CTF, 資安]
 categories:
     - write-ups
-image: https://elliot-32/ImaginaryCTF_2024.png
+image: https://elliot-32.github.io/ImaginaryCTF_2024.png
 ---
 
 🚩Team: [ICEDTEA](https://ctftime.org/team/303514)                                                                                                          
