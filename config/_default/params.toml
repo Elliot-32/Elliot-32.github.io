@@ -23,7 +23,7 @@ src = "img/avatar.png"
 
 [article]
 headingAnchor = false
-math = false
+math = true
 readingTime = true
 
 [article.license]
@@ -61,7 +61,7 @@ card = "summary_large_image"
 
 [defaultImage.opengraph]
 enabled = false
-local = false
+local = true
 src = ""
 
 [colorScheme]
