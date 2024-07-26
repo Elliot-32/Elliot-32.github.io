@@ -2,9 +2,10 @@
 title: 2024 Imaginary CTF Write-Up
 description: 🚩ICEDTEA
 tags: [CTF, 資安]
+data: 2024-07-25  16:00:00+0800
 categories:
-    - write-ups
-image: https://elliot-32.github.io/ImaginaryCTF_2024.png
+    - CTF
+image: ImaginaryCTF_2024.png
 ---
 
 🚩Team: [ICEDTEA](https://ctftime.org/team/303514)                                                                                                          
