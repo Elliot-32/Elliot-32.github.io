@@ -2,7 +2,7 @@
 title: 2024 Imaginary CTF Write-Up
 description: 🚩ICEDTEA
 tags: [CTF, 資安]
-data: 2024-07-25  16:00:00+0800
+data: 2024-07-25 16:00:00+0800
 categories:
     - CTF
 image: ImaginaryCTF_2024.png
