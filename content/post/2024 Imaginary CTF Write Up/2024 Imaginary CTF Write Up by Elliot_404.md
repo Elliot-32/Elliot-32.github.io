@@ -184,6 +184,7 @@ A: Jackson
 ![image](https://hackmd.io/_uploads/ryJhgcodA.png)
 
 從此篇[LinkedIn貼文](https://www.linkedin.com/feed/update/urn:li:activity:7219899411361882112/)中得知她媽媽姓名為Amelia Jackson Descartes，根據美國冠夫姓的方式，會把夫姓放後面，引此婚前姓氏為Jackson
+
 實際🌰:拜登的前任太太,內莉亞·杭特·拜登（英語：Neilia Hunter Biden）；婚前姓杭特（英語：Hunter）
 
 10. At what company do you work at?
@@ -268,7 +269,8 @@ summon minecraft:wolf ~ ~ ~ {CustomName:dog name,Owner:cleverbear57,CustomNameVi
 kill @e[type=minecraft:wolf,name="dog name"]
 ```
 
-改好後的檔案：https://drive.google.com/file/d/1SXygAqhi0rcWMruVWuEpv6CcFlvRme8G/view?usp=drive_link
+改好後的檔案：
+https://drive.google.com/file/d/1SXygAqhi0rcWMruVWuEpv6CcFlvRme8G/view?usp=drive_link
 
 ![image](https://hackmd.io/_uploads/SkH38TkFC.png)
 
