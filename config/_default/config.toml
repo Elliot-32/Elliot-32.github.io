@@ -2,7 +2,7 @@
 baseurl = "https://elliot-32.github.io"
 languageCode = "zh-tw"
 paginate = 5
-title = "Elliot_404"
+title = "Elliot's Blog"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
