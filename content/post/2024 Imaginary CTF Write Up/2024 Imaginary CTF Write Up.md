@@ -3,11 +3,9 @@ title: "2024 Imaginary CTF Write Up"
 description: 🚩ICEDTEA
 date: 2024-07-26T09:10:42Z
 image: ImaginaryCTF_2024.png
-math: 
-license: 
 hidden: false
 comments: true
-draft: true
+draft: false
 categories:
     - CTF
 tags: 
