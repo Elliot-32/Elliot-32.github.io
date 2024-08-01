@@ -61,7 +61,7 @@ card = "summary_large_image"
 
 [defaultImage.opengraph]
 enabled = false
-local = true
+local = false
 src = ""
 
 [colorScheme]
