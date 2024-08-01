@@ -1,7 +1,7 @@
 ---
 title: CTF
 description:
-image: 
+image: ctftime.png
 
 # Badge style
 style:

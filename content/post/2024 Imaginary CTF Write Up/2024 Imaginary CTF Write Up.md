@@ -1,6 +1,5 @@
 ---
 title: "2024 Imaginary CTF Write Up"
-description: 🚩ICEDTEA
 date: 2024-07-26T09:10:42Z
 image: ImaginaryCTF_2024.png
 hidden: false
@@ -18,7 +17,7 @@ tags:
 🚩CTF challenge link: https://2024.imaginaryctf.org/Challenges.html
 
 ![image](https://hackmd.io/_uploads/SJWs3cJKA.png)
-## WEB
+## 🌐WEB
 
 ### readme
 > https://cybersharing.net/s/67af3fd941707117
@@ -65,7 +64,7 @@ flag：```ictf{path_normalization_to_the_rescue}```
 
 
 
-## FORENSICS
+## 🔍FORENSICS
 
 
 ### cartesian-1
@@ -203,7 +202,6 @@ A: Farmer Johnson
 ```
 summon minecraft:wolf ~ ~ ~ {CustomName:dog name,Owner:cleverbear57,CustomNameVisible:0,variant:black,CollarColor:15}
 ```  
-![image](https://hackmd.io/_uploads/SkU0RFytA.png)
 
 接著把```playful-puppy\world```丟到你的minecraft資料夾的```saves```底下，在遊戲中打開它，會發現一堆狗  
 ![2024-07-25_16.23.27](https://hackmd.io/_uploads/SkLVZc1FR.jpg)
@@ -214,8 +212,6 @@ summon minecraft:wolf ~ ~ ~ {CustomName:dog name,Owner:cleverbear57,CustomNameVi
 ```
 kill @e[type=minecraft:wolf,name="dog name"]
 ```  
-![image](https://hackmd.io/_uploads/SkH38TkFC.png)  
-[Download link](https://drive.google.com/file/d/1SXygAqhi0rcWMruVWuEpv6CcFlvRme8G/view?usp=drive_link)  
-
+ 
 接著進到遊戲中按下T，執行```/reload```，再執行```/function test:dog```，即可消滅多餘的狗，就可以找到他的狗了，接著把名稱填入ictf{``` ```}內即可  
 ![2024-07-21_14.14.03](https://hackmd.io/_uploads/SkVHn2yt0.jpg)
