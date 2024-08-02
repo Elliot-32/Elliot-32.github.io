@@ -65,7 +65,7 @@ local = false
 src = ""
 
 [colorScheme]
-toggle = true
+toggle = false
 default = "dark"
 
 [imageProcessing.cover]

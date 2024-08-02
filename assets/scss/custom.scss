@@ -17,9 +17,9 @@
     // 暗色模式下样式
     &[data-scheme="dark"] {
       // 行内代码背景色
-      --code-background-color: #ff6d1b17;
+      --code-background-color: #b71bff17;
       // 行内代码前景色
-      --code-text-color: #e96900;
+      --code-text-color: #d468ff;
       // 暗黑模式下背景色
       --body-background: #000;
       // 暗黑模式下卡片背景色
@@ -66,8 +66,8 @@
   // 文章内容引用块样式
   .article-content {
     blockquote {
-      border-left: 6px solid #358b9a1f !important;
-      background: #3a97431f;
+      border-left: 6px solid #00eeff96 !important;
+      background: #7474741f;
     }
   }
   // ---------------------------------------
@@ -101,14 +101,14 @@
     }
   }
   
-  // light模式下的代码块样式调整
-  [data-scheme="light"] .article-content .highlight {
-    background-color: #fff9f3;
+  // 代码块样式调整
+  [data-scheme="dark"] .article-content .highlight {
+    background-color: #2d305333;
   }
   
-  [data-scheme="light"] .chroma {
-    color: #000000;
-    background-color: #fff9f3cc;
+  [data-scheme="dark"] .chroma {
+    color: #ffffff;
+    background-color: #22222200;
   }
   
   //-------------------------------------------
@@ -128,7 +128,7 @@
     }
   
     &.link {
-      color: #4287b9;
+      color: #6fb9ff;
       font-weight: 600;
       padding: 0 2px;
       text-decoration: none;
