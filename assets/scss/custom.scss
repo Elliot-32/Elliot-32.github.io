@@ -66,8 +66,8 @@
   // 文章内容引用块样式
   .article-content {
     blockquote {
-      border-left: 6px solid #00eeff96 !important;
-      background: #7474741f;
+      border-left: 6px solid #00eeff1f !important;
+      background: #00eeff0a;
     }
   }
   // ---------------------------------------
@@ -103,7 +103,7 @@
   
   // 代码块样式调整
   [data-scheme="dark"] .article-content .highlight {
-    background-color: #2d305333;
+    background-color: #34385a56;
   }
   
   [data-scheme="dark"] .chroma {
@@ -286,20 +286,7 @@
     }
   }
 
-//----------------------------------------------------------
-//为代码块顶部添加macos样式
-.article-content {
-    .highlight:before {
-      content: "";
-      display: block;
-      background: url(/code-header.svg);
-      height: 32px;
-      width: 100%;
-      background-size: 57px;
-      background-repeat: no-repeat;
-      margin-bottom: 5px;
-      background-position: -1px 2px;
-    }
-  }
 
-//以上來自https://blog.linsnow.cn/p/modify-hugo/
+//以上參考自https://blog.linsnow.cn/p/modify-hugo/
+
+//----------------------------------------------------------
