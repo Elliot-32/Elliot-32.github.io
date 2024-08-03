@@ -13,7 +13,7 @@ tags:
     - Write-up
 ---
 
-🚩Team: [ICEDTEA](https://ctftime.org/team/303514)                                                                                                          
+🚩Team: [ICEDTEA](https://ctftime.org/team/303514)  
 🚩CTF challenge link: https://2024.imaginaryctf.org/Challenges.html
 
 ![image](https://hackmd.io/_uploads/SJWs3cJKA.png)
