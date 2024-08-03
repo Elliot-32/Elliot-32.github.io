@@ -13,6 +13,14 @@ links:
     description: elliot_404_tw
     website: https://www.instagram.com/elliot_404_tw/
     image: https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg
+  - title: CTFtime
+    description: Elliot_404
+    website: https://ctftime.org/user/191615
+    image: ctftime.png
+  - title: E-mail
+    description: cyber404.tw@gmail.com
+    website: mailto:cyber404.tw@gmail.com
+    image: mail.png
 menu:
     main: 
         weight: 4
