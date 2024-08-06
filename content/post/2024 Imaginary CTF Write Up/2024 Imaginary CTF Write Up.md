@@ -215,3 +215,7 @@ kill @e[type=minecraft:wolf,name="dog name"]
  
 接著進到遊戲中按下T，執行```/reload```，再執行```/function test:dog```，即可消滅多餘的狗，就可以找到他的狗了，接著把名稱填入ictf{``` ```}內即可  
 ![2024-07-21_14.14.03](https://hackmd.io/_uploads/SkVHn2yt0.jpg)
+
+事後看[官方writeup](https://github.com/ImaginaryCTF/ImaginaryCTF-2024-Challenges-Public/tree/main/Forensics/playful-puppy)發現根本不是這樣解，是出題者忘了把```dog.mcfunction```刪掉了www
+
+正常來講應該是要從題目給的圖片中看出項圈是藍色的，再透過google搜尋發現決定項圈顏色的標籤是CollarColor，而藍色的ID是11，再透過[NBTExplorer](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-tools/1262665-nbtexplorer-nbt-editor-for-windows-and-mac)打開地圖檔，按下<kbd>Ctrl</kbd>+<kbd>F</kbd>，Name處填入CollarColor，Value處填入11，按下Find後即可在```CollarColor: 11```底下看到```CustomName: "6ed247d7539bb3bf"```
