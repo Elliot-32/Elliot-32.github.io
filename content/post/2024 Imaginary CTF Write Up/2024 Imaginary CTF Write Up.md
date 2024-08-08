@@ -120,7 +120,7 @@ Home **↔️** 西雅圖: 1114 英里（資訊來自 Github）
 Home **↔️** UCSD: 300 英里（資訊來自 Instagram）  
 ![image](https://hackmd.io/_uploads/B1c37coO0.png)
 
-- 以下三角定位的部分是由隊友[佑丞](https://ctftime.org/user/197062)完成的：
+- 以下三角定位的部分是由隊友[佑丞](https://www.instagram.com/youcheng0406/)完成的：
 
 找不到適合的工具來三點定位，於是打開 Google 地球，玩了一下量測發現是單位是**公尺**，透過 ChatGPT 先把隊友提供的線索轉換成公尺。  
 ![meter](https://hackmd.io/_uploads/HkEUoKiOC.png)
