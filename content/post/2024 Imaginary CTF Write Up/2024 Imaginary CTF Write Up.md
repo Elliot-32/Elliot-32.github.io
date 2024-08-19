@@ -30,7 +30,9 @@ tags:
 
 把要求網址的後面的 ```readme.tar.gz``` 改成 ```flag.txt``` 即可拿到檔案  
 ![image](https://hackmd.io/_uploads/HywQqg6u0.png)  
+```
 https://cybersharing.net/api/download/file/7a829a2b-4674-471a-9875-02691f5ce6c5/703dc4c6-7b06-4813-874a-857fc1ea4098/7aeb7c98-9bf5-44b3-9eb3-972f225a3576/flag.txt
+```
 
 但打開會發現這實際上不是 .txt 檔，所以先丟進 Linux 裡面查看檔案類型  
 ```bash=
