@@ -11,8 +11,7 @@ menu:
             icon: about
 ---
 ## 🤡關於我
-資安小白一個，對 OSINT、網頁安全 
-、滲透測試、Networking Security 比較感興趣
+資安小白一個
 
 🏫[內思高工資安社群](https://www.instagram.com/savs_hacker/)創辦人  
 
